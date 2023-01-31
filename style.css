@@ -1,0 +1,296 @@
+body{
+    font-family: ClanPro,sans-serif;
+    margin: 0;
+}
+.header{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav{
+    padding-right: 205px;
+}
+.nav-link{
+    color: #73737369;
+    padding-right: 50px !important;
+}
+.log{ 
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 215px;
+    height: 75px;
+    margin-top: 10px;
+    margin-left: 192px;
+}
+h1{
+    color: #369af8;
+    font-size: 32px;
+    font-weight: 200;
+    line-height: 2;
+}
+.pt-3{
+    padding-top: 6rem !important;
+}
+.para{
+    font-size: 1.2rem;
+    line-height: 27px;
+    margin: 1.75rem 0 2rem;
+}
+.awards{
+    background-image: url(award_logo.png);
+    width: 100%;
+    height: 200px;
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.line{
+    border-bottom: 2px solid #369af8;
+    margin: -0.2% 48.5% 3%;
+}  
+/* roe-3-css */
+
+.one-para{
+ padding-top: 112px;
+}
+@media screen and (min-width: 992px) {
+    .one-para{
+        text-align: center;
+    }
+}
+
+/* row-4-css */
+.news{
+    width: 100%;
+    background-color: #f1f1f1
+    
+}
+.div-size{
+    width: 100%;
+    height: 145px;
+    padding-top: 75px;
+}
+.underline{
+    border-bottom: 2px solid #369af8;
+    margin: -2.2% 48.5% 3%;
+}   
+.tech{
+    background-image: url(banner.png);
+    background-position: -659px 0;
+    background-size: 525%;
+    height: 40px;
+    width: 201px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 6% 3%;
+ 
+  
+}
+.buss{
+
+    background-image: url(banner.png);
+    background-position: 6px 0;
+    background-size: 1043%;
+    height: 50px;
+    width: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 6% 3%;
+}
+.forbe{
+    background-image: url(banner.png);
+    background-position: -106px -5px;
+    background-size: 840%;
+    height: 40px;
+    width: 140px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 6% 3%;
+}
+.fortune{
+    background-image: url(banner.png);
+    background-position: -230px 0;
+    background-size: 655%;
+    height: 40px;
+    width: 165px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 6% 3%;
+}
+.times{
+    background-image: url(banner.png);
+    background-position: -1282px 0;
+    background-size: 535%;
+    height: 40px;
+    width: 295px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 6% 3%;
+}
+/* row-5-css */
+.b{
+    background-color: #f1f1f1;
+   max-width: 100%;
+   
+    text-align: center;
+}
+.star-icon{
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-position: -340px 0;
+    background-size: 1096%;
+    height: 83px;
+    width: 85px;
+    display: inline-block;
+    margin: 5% 0;
+    vertical-align: top;
+}
+.heading{
+    color: #369af8;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5%;
+    line-height: 20px;
+}
+.content{
+    color: #727272;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 24px;
+    
+}
+.apple-icon{
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-position: -465px 0;
+    background-size: 1000%;
+    height: 83px;
+    width: 102px;
+    display: inline-block;
+    margin: 5% 0;
+    vertical-align: top;
+}
+.heading2{
+    color: #369af8;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5%;
+    line-height: 20px;
+}
+.content2{
+    color: #727272;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 24px;
+    
+}
+.page{
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-position: -473px 0;
+    background-size: 1340%;
+    height: 83px;
+    width: 64px;
+    display: inline-block;
+    margin: 5% 0;
+    vertical-align: top;
+}
+.heading3{
+    color: #369af8;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5%;
+    line-height: 20px;
+}
+.content3{
+    color: #727272;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 24px;
+    
+}
+/* row-6-css */
+@media screen and (min-width: 992px) {
+    .link{
+     width: 100%;
+    height: 300px;
+    padding-top: 70px;
+    }
+}
+
+.down{
+    font-weight: 700;
+    color: #727272;
+    font-size: 1.2rem;
+    margin: 0;
+    line-height: 3;
+}
+.app-store{
+    background-image: url(ios_app_store.png);
+    background-size: contain;
+    width: 151px;
+    height: 45px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+}
+.app-store2{
+    background-image: url(ios_app_store.png);
+    background-size: contain;
+    width: 151px;
+    height: 45px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+}
+/* footer-css */
+.footer{
+    background-color: #444444;
+}
+a{
+    text-decoration: none !important;
+    color: white;
+    line-height: 3;
+
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+.inshort-logo{
+    background-image: url(logo_footer.png);
+    background-color: #444444;
+    background-repeat: no-repeat;
+    background-size: 90%;
+
+}
+.r{
+    color: #dedede77;
+}
+@media screen and (min-width: 768px){
+    .right-div{
+        display: inline-block;
+        padding-left: 27%;
+        padding-top: 93px;
+    
+         
+    }
+    .right-div a{
+        display: block;
+        margin: 5%;
+        line-height: normal;
+        
+    
+    }
+    .left-div{
+        display: inline-block;
+        padding: 0 15%;
+        vertical-align: top;
+        padding-top: 93px;
+       
+       
+    
+    }
+    
+}
